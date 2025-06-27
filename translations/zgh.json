@@ -1,0 +1,128 @@
+{
+
+  "welcome.message": "ⴰⵣⵓⵍ ⴷⴰⵔ Amarire Dev",
+
+
+
+
+
+  "nav.home": "ⵜⴰⴳⴳⴰⵔⵜ",
+  "nav.projects": "ⵉⵎⵣⵣⵓⵔⴰⵏ",
+  "nav.about": "ⵉⵎⴰⵣⵉⵖ",
+  "nav.contact": "ⵙⵉⵏⴰⵡⵏ",
+  "lang.en": "English",
+  "lang.ar": "ⴰⵔⴰⴱⵉ",
+  "lang.fr": "Français",
+  "lang.zgh": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  "darkModeLabel": "ⵜⴰⵎⴷⴰⵔⵜ ⵏ ⵜⴰⴷⵍⴰⵙⵜ ⵓⵙⵙⵉ",
+  "main.welcomeTitle": "ⵎⴰⵣⵖ ⵏ Amarire Dev",
+  "main.welcomeText": "ⵉⵏⵏⴰⵡⴰⵙ ⵏ ⵢⵉⴷⵔⴰⵙ ⵓⵙⵙⵉⵏ ⵏ ⵡⵉⴷⵉⴰⵡⵉⵏ ⴷ ⵢⵓⵙⵙⵓⵏ.",
+  "main.servicesTitle": "ⵜⴰⵙⵙⵉⵏⴰⵏ ⵉⵎⴰⵣⵡⴰⵙⵏ",
+  "main.services.webDevelopment": "ⵜⴰⵎⵙⵙⵔⵉⵜ ⵏ ⵡⵉⴷⵉⴰⵡ",
+  "main.services.wordpress": "ⴰⵙⵙⴰⵔⴰⵙⵉⵏ WordPress",
+  "main.services.ecommerce": "ⵜⴰⵎⴰⵣⵉⴳⵜ ⵏ ⴰⵏⵏⴰⴳ",
+  "main.services.optimization": "ⵜⴰⵎⴰⵣⵓⵔⵜ & ⵢⴰⵏⵏⵓⵙⵙⵉⵏ SEO",
+  "main.aboutTitle": "ⴰⵙⵙⴻⵏⵏⵉ ⵓⵙⵙⵓⵏ",
+  "main.aboutText": "Amarire Dev ⴰⵏⵙⴻⴷⵔⴰⵙ ⵏ ⵜⴰⵎⵙⵙⵔⵉⵜ ⵓⵙⵙⵉⵏ ⵢⵉⵏⴰⵙ ⵓⵙⵙⵉⵏ ⵢⴰⵍⴰⴳ ⵓⵙⵙⵉⵏ.",
+  "main.contactTitle": "ⵙⴻⵏⴻⵜ",
+  "main.contactText": "ⵣⵓⴷ ⵢⴰⵏ ⵜⴰⵎⵙⵙⵔⵉⵜ?",
+  "main.contactLink": "ⵢⴰⵎⵎⵉⵔ ⵏ ⵢⴰⵏⴰ",
+
+
+
+  
+  "hero_greeting": "ⴰⵣⵓⵍ, ⵏⴽⴻⵉⵏ ⴳⵉⵖ",
+  "hero_profession": "ⴰⵎⴻⵔⵔⴰⴽ ⵏ ⵡⵉⴱ",
+  "hero_description": "ⵏⴻⴽⵏⵉ ⴷ ⴰⵎⴻⵔⵔⴰⴽ ⵏ ⵡⵉⴱ ⵏ ⵓⵙⴻⵏⴳⵓⵎ ⵏ ⵡⴰⵡⴰⵍ, ⵏⵏⴽⴽⵔ ⴰⴷ ⵙⵙⵏⴻⵎ ⵉⵎⴽⴽⴰⵏⴻⵏ ⵉⵎⵔⴰⵢⴻⵏ ⴷ ⵉⵎⵏⵣⴰⴹⴻⵏ ⵙ ⵢⵉⵍⵍⴰⵏ-ⵏⵉⴹⴻⵏ ⴰⵎ HTML, CSS, ⴷ JavaScript. ⴰⴷ ⵙⵙⵏⴻⵏ ⵜⴰⴼⵓⴽⵜ ⵏ ⵜⵓⵙⵏⴰⵜⵉⵏ ⵉⵎⵏⴰⵢⴻⵏ ⴰⵔ ⵍⴰⵃⵏⴰ ⵏ ⵡⴰⵡⴰⵍ ⵙ ⵡⴰⵢⴻⵏ ⵉⵡⴰⴽⴽⴻⵏ ⴰⴷ ⵙⵙⵏⴻⵏ ⴷⴷⵓⵏⵉⵜ ⵙ ⵡⴰⵢⴻⵏ ⵢⴻⵍⵍⴰ ⴷ ⵉⵙⴻⴳⴳⵡⴰⵙⴻⵏ ⵏ ⵓⵎⴷⴰⵖ.",
+  "hero_button": "ⴰⵙⴻⵍⴽⵉⵎ",
+
+
+
+
+
+
+  "about_title": "ⵖⴻⴼ ⵡⵉⵢⵉⴷ",
+  "about_paragraph_1": "ⴰⵙⴳⴰⵙⵏⴰ ⴰⵏⵙⴰ ⵏ ⵜⴰⵙⵙⴰⵎⵎⵓⴷⵜ ⵏ ⵓⵙⴳⴰⵙ ⴷ ⵜⴰⴷⴷⴰⵢⵔⵜ ⵏ ⵜⵓⵔⵉ ⵏ ⵜⵉⵣⵣⵓⵔⵏ ⵓ ⵜⵉⵣⵉⵖⵜ ⵜⵓⵙⵎⴰⵍⵉⵜ. ⴰⵏⵙⴰⵙ ⵓⵙⴳⴰⵙ ⵙ ⵉⵙⵙⴰ ⴰⴼⵔⴰⵙ ⵏ ⵜⵓⴽⵍⴰ ⵜⴰⵏⵎⵎⴰⴹⵜ ⵏ ⵓⵙⴳⴰⵙ, ⵓⵙⵙⴰⴹⴰⵍ ⵓⵙⵏⵏⵓⵍⵉⵢⵉⵏ ⴰⵎⵓⴷⴷⴰⵢ ⵏ ⵜⵉⴷⵔⴰⵙⵏ. ⵉⵏⵙⴰⵙ ⴷ ⵉⵙⴻⴳ ⴰⵙⴳⴰⵙ ⴷⵉⵏ ⴰⵙⵉⵏ ⵓⵏⵎⴰⵍⵍⵉⵢⵉⵏ ⴷ ⴰⴷⵔⴰⵙ ⵏ ⴰⵎⵓⴷⴷⴰⵢ, ⵜⴰⵙⴳⴰ ⵏ ⵜⵓⴷⴷⴰⵢⵉⵏ, ⵜⴰⵙⴳⴰ ⵏ ⵜⵓⵙⴽⴰⵍⵉⵏ, ⵓ ⵜⴰⵙⴳⴰ ⵏ ⵜⵓⵔⵉⵖⵜ ⴷ ⵜⵓⴳⴷⵓⴷⵉⵏ. ⵙⴻⵎⴰⴷⴷⴰⴹ ⵉⵙⵙⴰ ⴰⴳⵍⴰⵡ ⴰⵙⴳⴰⵙ ⴰⵎⴰⵣⵉⵖ ⴷ ⵜⴰⵏⵎⵎⴰⴹⵜ ⵓⵙⴷⴰⵏⴰⵢⵉⵏ ⴷ ⴰⴼⴰⵍ ⵏ ⴰⵡⴰⵍ ⵓ ⵉⵙⵉ ⵉⴷⵜⵍⵍⵉⵏ ⵏ ⵉⵎⴰⵍⵍⴰⴹ ⵓ ⵜⵓⵙⵙⵓⴷⵉⵏ.",
+  "about_paragraph_2": "ⴰⵏⵙⴰⵙ ⵓⵙⴳⴰⵙ ⴰⵏⵙⵙⴰ ⴰⵙⵍⴻⴽⵜⵉⴽ ⴷⵉⵏ ⵏ ⵜⵓⴽⵍⴰ ⵉⵎⴰⵣⵖⵉⵏ ⵓ ⵜⵉⴽⵏⵉⴽⵉⵏ ⵓⵙⴽⵓⵔⵏ, ⴰⵏⵎⴰⵍ ⵏ HTML, CSS, JavaScript, PHP, ⴷ ⵜⴰⴷⴷⴰⵢⵔⵜ ⴰⵎⴰⵣⵉⵖⵜ ⵏ WordPress, WooCommerce ⵓ Shopify. ⵜⵓⴷⴷⴰⵢⵉⵜ ⵉⵙⴻ ⵓⴷⵔⴻⵏ ⵜⴰⵙⵎⴰⵍⵉⵜ ⵏ ⵓⵙⴳⴰⵙ ⴷ ⵜⴰⵎⴰⵙⵙⴰⵍⵜ ⵏ ⵜⵓⴽⵍⴰ ⴰⵎⴰⵍⵍⴰⴹ ⴷ ⴰⴱⴰⵢⵏⴰⵢ ⵏ ⴰⵎⵓⴷⴷⴰⵢ. ⴰⵙⵍⴻⴽⵜ ⵓⵙⵏⴼⵔ ⵉⵎⴰⵣⵖⵉⵏ ⴰⵎⴰⵣⵉⵖ ⵓⵙⴰⵎⵓⴽⵍⵓ ⴷ ⴰⵎⴰⵔⵔⵉ ⵏ ⵓⵙⴳⴰⵙ, ⵓⵙⵓⵎⵎⴰⵍ ⵓⴱⵔⵉ ⵜⵉⵍⵍⵉⵍⵉⵏ ⵓ ⵜⴰⵏⵎⵎⴰⴹⵜ ⵏ ⵜⴰⵏⴰⴼⵔⵓⵙⵜ ⵓ ⵜⵉⵏⵉⵎⵓⵔⵜ. ⴰⴳⵍⴰⵡ ⴰⵙⴳⴰⵙ ⵓⵙⴰⵎⵓⴽⵍⵓ ⵓⵙⴰⵎⵙⵉⵏ ⴰⵎⵓⴷⴷⴰⵢ ⵓ ⵜⵓⴷⴷⴰⵢⵉⵏ ⵜⵉⴳⴷⵔⴻⴷⵜ ⴰⵎⵓⴹⴹⴰⵡⵉⵜ ⵓ ⵜⵉⵣⵣⵓⵔⵏ ⵓ ⵜⵉⵏⵏⵓⵍⵉⵢⵉⵏ.",
+  "about_paragraph_3": "ⵉⵏⵙⴰⵍⴻⵏ ⴷ ⵜⵉⵣⵣⵓⵔⵏ ⴰⵎⴻⵏⴰⵡⴰⵍ ⴷ ⵉⵎⵙⵎⴻⵍⵍⴰⵏ ⴷ ⵓⵙⴳⴰⵙ ⵓⵙ ⴰⵎⵙⴰⵍ ⵏ ⵜⴰⵙⴳⴰ ⵏ ⵙⴻⵎⵎⴰⴷ. ⵓⵙⴳⴰⵙ ⵉⴷ ⴱⴻⴷ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵏ ⵜⵓⵔⵓⴷⵉⵏ ⵏ ⵓⵙⴳⴰⵙ ⵏ ⵜⴰⵡⴰⵏⵏⴰ ⵓ ⵜⵔⴻⵏⵓⴷⵉⵏ ⵏ ⴰⵍⵍⴰⵍ. ⵓⵙⴳⴰⵙ ⴰⵎⴰⵣⵉⵖ ⴷ ⵜⵉⵏⵏⵓⵙⵜ ⵏ ⵓⵙⴳⴰⵙ ⵏ ⵜⴰⵣⵓⵍⵍⵉⵏ ⵓ ⵜⵓⵙⴳⴰ ⵉⵙⵙⴰ. ⴰⴳⵍⴰⵡ ⵓⵙⴳⴰⵙ ⵉⴷ ⴰⴳⵎⴻⵔ ⵓⵙⴳⴰⵙ ⴷⵉⵏ ⵏ ⴰⵙⵍⵍⵉ ⴰⵍⵍⴰⵍ ⴷ ⵜⵓⴳⴷⵓⴷⵉⵏ ⵜⴰⵎⴰⵣⵓⵔⵜ. ⴱⵔⴰ ⴷ ⴰⵏⴳⴰ ⵉⴷⵜⴰⵎⵓⵔⵜ ⵏ ⵜⵉⵎⴰⵣⵉⵖⵜ ⵏ ⴰⵙⴳⴰⵙ, ⵉⴳⴰⵔ ⴷ ⴰⵏⵎⴰⵍⴻⵏ ⴳ ⴰⵣⵡⴰⵍ ⴷ ⵢⴰⵙⵏⴰⵔ ⴰⵙⴳⴰⵙ ⴳ ⵜⵉⴳⴷⵓⴷⵉⵏ ⵏ ⵓⵎⵎⴰⵔ.",
+
+
+
+  "skills.title": "ⵜⵉⵎⵍⵉⵍⵜ ⴷ ⵉⴼⵔⵉⴳⴰⵏ",
+
+
+
+
+
+
+
+
+  "projects.title": "ⴰⵙⵙⴰⵏⴰⵡⴰⵏ ⵏ ⵓⴼⵔⴰⵙ",
+  "projects.view": "ⵙⵉⴷ ⵏ ⴰⵙⴰⵏⴰⵡ →",
+  "projects.github": "GitHub",
+
+  "projects.project1.title": "ⴰⵎⴰⵣⴰⵍ ⵏ ⵓⴼⵔⴰⵙ ⵓⵙⴽⵍⴰⵍ",
+  "projects.project1.desc": "ⴰⵎⴰⵣⴰⵍ ⵙⴰⵙⵏⴰⵡⴰⵏ ⴷ ⵓⵔⴱⵓⵙ, ⴰⵙⴽⵍⴰⵍ ⵓⵏ, ⴷ ⵓⴷⵔⴰⵏ.",
+
+  "projects.project2.title": "ⵜⴰⵏⴰⵎⴰⵍⵜ ⵏ ⵜⵉⴳⵉⵔⵉⵏ ⵓⵙⴽⴽⴰⵍⵉⵏ",
+  "projects.project2.desc": "ⵜⴰⵏⴰⵎⴰⵍⵜ ⴷ ⵜⵉⵏⴰⵎⴰⵣⵉⵏ ⵓⵙⴰⴳⵍⵉⵡ ⴷ ⵜⵓⵍⵍⵓⵙⵜ ⵉⵖⵍⵉⵣⵉⴷⴷⵓⵏ.",
+
+  "projects.project3.title": "ⴰⵙⴰⵏⴰⵡ ⴰⵎⴰⵣⴰⵍ",
+  "projects.project3.desc": "ⴰⵎⴰⵣⴰⵍ ⵏ ⴰⵖⵔⵉⵖ ⵓⵙⴽⵍⴰⵍ ⴷ ⴰⵎⴰⴷⴷⴰⵍ ⵓⵙⵍⵉ, ⵙⵍⴰ, ⴷ ⵜⵓⵍⵍⵓⵙⵜ ⵉⵖⵍⵉⵣⵉⴷⴷⵓⵏ.",
+
+  "projects.project4.title": "ⵜⵙⵙⴰⵏⵜ ⵏ ⵜⵓⵜⵜⵍⵉⵍⵜ",
+  "projects.project4.desc": "ⵜⵓⵜⵜⵍⵉⵍⵜ ⵜⵓⵔⵉⴷⵜ ⴷ ⵓⴽⵍⴰⵎ, ⵓⵏⴱⵓⵔ ⵏ ⵜⵜⵉⵍⴰ, ⴷ ⴰⴽⵓⵔⵉⵖ ⵏ WordPress.",
+
+  "projects.project5.title": "ⴰⵎⴰⵣⴰⵍ ⵏ ⵜⴰⵙⴳⴰⵙⵜ ⵜⵉⵍⴻⵎⴰⵍⵉⵏ",
+  "projects.project5.desc": "ⴰⵎⴰⵣⴰⵍ ⵏ ⵜⴰⴳⵔⴰⴷⵜ ⴷ ⵜⴰⵏⴰⵎⴰⵣⵉⵏ ⴰⵎⴰⵣⴰⵍⵓⵏ, ⵜⴰⴳⴷⵓⵔⵜ, ⵜⵓⵜⵜⴰⴼⵓⵔⵜ, ⴷ ⵓⵣⵣⵉⵔ.",
+
+  "projects.project6.title": "ⴽⵍⵓⵏ ⵏ Netflix",
+  "projects.project6.desc": "ⴰⴷⵔⴰⴷ ⴰⵎⴰⵣⴰⵍ ⴰⵙⵙⴰⵏⴰⵡⴰⵏ ⵏ ⵜⴰⵙⵙⴰ ⵏ Netflix ⴷ ⵜⵓⵍⵍⵓⵙⵜ ⴷ ⵜⵉⵎⵎⵓⵔⵉⵢⵉⵏ.",
+
+
+
+
+
+
+
+
+  "testimonials.title": "ⴰⵙⵏⴼⴰⵡ ⵏ ⵓⵙⵙⴰⵏⵏⵉ",
+  "testimonials.text1": "ⵎⵓⵔⴰⴹ ⵉⵎⴰⴳⵍ ⵙ Amarire. ⵉⵙⴷⵉ ⴰⵣⵔⵉ ⵏ ⴼⵓⵙⴷ ⵓⵙⴰⵏⵏⵉ ⵓⴷ ⵉⵏⵙⵙⵉ ⵙⴰⵙⴽⵓⴷ. ⴰⵙⵏⴼ ⵎⴰⵔⵉ ⴷ ⵓⵎⵎⴰⴹ.",
+  "testimonials.text2": "ⴰⴳⵔⴰⴹ ⵙⴽⴰⵢ ⵓⵏⴰⵏⴽⴰ ⴷ ⴰⵣⵔⵉ ⴰⵏⵙⴳⵉ Amarire ⴷ ⵙⵓⵙⵉ. ⵉⴷⴷⴰⴷ ⴰⵣⵔⵉ ⵙⴰⵎⵎⴰⵙ ⴷ ⵉⵏⵙⵙⵉ ⵓⵎⵎⴰⴹ. ⵜⵉⵜⵏⴰⵎⴰⵜ ⴷ ⵙⴰⵙⴽⵓⴷ ⵎⵎⴰⵣⵉⵖ.",
+  "testimonials.text3": "ⵎⵓⴹⵉⵏ ⵙⴽⵓⴼ ⴷ ⵜⵙⵍⴰⵏ. ⵉⵙⴷⵉ ⵜⴰⵍⵎⴰⵏⵜ ⵙⵉⵏⵉ ⴰⵣⵔⵉ ⵓⵙⴰⵏⵏⵉ ⵏⴰ ⴷ ⵙⵉⴷⴷⵓⴽ ⵎⵓⴷⴷⴰⵢ. ⴰⵙⵉⴹ ⴼⴰⵙ ⵓⵣⵣⴰⵡⴰⵏ.",
+  "testimonials.text4": "ⵜⴰⵙⵉⵏⵜ ⵎⵓⵍⵍⵉⵢⵉⵏⵜ ⴰⵎⴰⵣⵣⴰⵔ ⴷ ⴰⵙⵏⴼ ⵎⴰⵔⵉ. ⴰⵣⵓⵍ ⵓⵙⵙⴰⵏⵏⵉ ⴷⵔⴰ ⵓⵙⴰⵎⵎⴰⴹ. Amarire ⴰⵎⵓⴹⵉⵏ ⵏⴰⵣⵓⵍⵉⵏ ⵏ ⵜⵓⵙⵉⴷⴷⴰⵏ. ⵉⴷⴷⴰⴷ ⵙⴰⴳⴰⵔ ⴰⵣⵓⵍ ⵏⵓⴽⴽ ⴼⴰⵙ ⵉⵏⵙⵙⵉⵏ.",
+
+
+
+
+
+
+
+  "contact.title_part1": "ⵙⴷⵔⵔⴰ",
+  "contact.title_part2": "ⴷ ⵉⵎⴰⵢⴰⵏ",
+  "contact.subtitle": "ⵏⴰⵎⵎⴰⵢ ⵓⴷⵔⵉ ⵢⵉⵍⴰ ⵢⴰⵙ ⵉⵏⴼⵉ ⵉⵎⴰⵢⵏ. ⵢⵉⵍⴰ ⵢⵉⵙ ⵣⵔⴰⵔ ⵉⵙⵏⴰⵏ.",
+  "contact.errors.name_required": "ⵢⴰⵙ ⴷⵔⵔⴰ ⵏ ⵉⵎⵣⵉⵏ.",
+  "contact.errors.email_invalid": "ⵢⴰⵙ ⴷⵔⵔⴰ ⵏ ⵉⵎⴰⵢⵍ ⵏ ⵙⴳⴳⵔⵉⵎ.",
+  "contact.errors.subject_required": "ⵢⴰⵙ ⴷⵔⵔⴰ ⵏ ⴰⵙⵙⴰⵏⴻⵏ.",
+  "contact.errors.message_required": "ⵢⴰⵙ ⴷⵔⵔⴰ ⵏ ⵉⵎⴰⵢⵙⴰ.",
+  "contact.errors.complete_captcha": "ⵢⴰⵙ ⴷⵔⵔⴰ ⴰⵙⵙⴰⵔ ⵏ CAPTCHA ⵓⵏⴻⵙ ⵉⵙⴷⴰⴷⴷⵓ.",
+  "contact.form.submit": "ⵙⵙⴰⴷⵎ ⵏ ⴰⵙⵙⴰⵏⴻⵏ",
+  "contact.EmailTitle": "ⵉⵎⴰⵢⵍ",
+  "contact.EmailDescription": "ⵙⵙⴰⴷⵎ ⵏ ⵉⵎⴰⵢⵍ ⴷ ⵓⵣⴰⵔ ⵢⴰⵙ.",
+  "contact.WhatsappTitle": "ⵡⴰⵜⵙⴰⴱ",
+  "contact.WhatsappDescription": "ⵢⵉⵍⴰ ⵏⵉⴼⴻⵙ ⵙⵙⴰⴷⵎ ⵏ ⵡⴰⵜⵙⴰⴱ.",
+  "contact.phone": "+212 77 242 0252",
+  "contact.TelegramTitle": "ⵜⵉⵍⵉⴳⵔⴰⵎ",
+  "contact.TelegramDescription": "ⵢⵉⵍⴰ ⵏⵉⴼⴻⵙ ⵙⵙⴰⴷⵎ ⵏ ⵜⵉⵍⵉⴳⵔⴰⵎ.",
+
+  "contact.placeholders.name": "ⵉⵎⵣⵉⵏ ⵏⵏⴰ",
+  "contact.placeholders.email": "ⵉⵎⴰⵢⵍ ⵏⵏⴰ",
+  "contact.placeholders.subject": "ⴰⵙⵙⴰⵏⴻⵏ",
+  "contact.placeholders.message": "ⵉⵎⴰⵢⵙⴰ ⵏⵏⴰ",
+
+
+
+
+
+  "footer.copyright": "© 2025 Amarire Dev - ⴰⴽⴽ ⵉⵖⵉⵍ ⴰⵡⴰⵏ ⴰⵎⴰⵢⵏⵓⵜⵉⵏ."
+}

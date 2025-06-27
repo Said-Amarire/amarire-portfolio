@@ -1,0 +1,137 @@
+{
+
+
+    
+  "welcome.message": "Welcome to Amarire Dev",
+
+
+
+
+  "nav.home": "Home",
+  "nav.projects": "Projects",
+  "nav.about": "About",
+  "nav.contact": "Contact",
+  "lang.en": "English",
+  "lang.ar": "Arabic",
+  "lang.fr": "French",
+  "darkModeLabel": "Toggle dark mode",
+  "main.welcomeTitle": "Welcome to Amarire Dev",
+  "main.welcomeText": "We build modern and responsive websites tailored to your needs.",
+  "main.servicesTitle": "Our Services",
+  "main.services.webDevelopment": "Web Development",
+  "main.services.wordpress": "WordPress Sites",
+  "main.services.ecommerce": "E-commerce Stores",
+  "main.services.optimization": "SEO & Performance Optimization",
+  "main.aboutTitle": "About Us",
+  "main.aboutText": "Amarire Dev is a web development studio dedicated to building fast, beautiful, and functional websites.",
+  "main.contactTitle": "Contact",
+  "main.contactText": "Need a website?",
+  "main.contactLink": "Get in touch with us",
+
+
+
+
+  "hero_greeting": "Hi, I'm",
+  "hero_profession": "Web Developer",
+  "hero_description": "I am a passionate front-end web developer specializing in creating responsive, user-friendly websites with modern technologies like HTML, CSS, and JavaScript. I strive to deliver seamless digital experiences that meet client needs and exceed expectations.",
+  "hero_button": "Get in Touch",
+
+
+
+
+  "about_title": "About Me",
+  "about_paragraph_1": "I develop websites with a strong focus on creating designs that are both visually appealing and highly functional. My approach involves understanding the unique goals and requirements of each client to deliver digital solutions that truly reflect their vision. Throughout my experience, I have worked on a wide range of projects including eCommerce stores, blogs, business websites, and personal portfolios. Each project is treated with the same level of care to ensure that the final product not only looks good but also offers seamless navigation and a satisfying user experience across all devices and browsers.",
+  "about_paragraph_2": "In building websites, I employ a variety of tools and technologies such as HTML, CSS, JavaScript, PHP, and popular platforms like WordPress, WooCommerce, and Shopify. These tools allow me to manage both the frontend interfaces that users interact with and the backend systems that keep everything running smoothly. The code I write is structured, clean, and maintainable, making it easier to update and expand websites over time to meet changing needs. By focusing on performance, security, and compatibility, I aim to deliver reliable and efficient websites that provide visitors with a seamless and uninterrupted experience.",
+  "about_paragraph_3": "Maintaining open and clear communication with clients is a key part of my workflow. I make sure to collaborate closely during every phase of a project, from initial planning to final delivery, and even after the site goes live. This ongoing support allows for continuous improvements, updates, and adjustments that help keep the website relevant and effective. Additionally, I dedicate time to learning new trends and technologies in web development, which enables me to incorporate the latest advancements and best practices into my work. The ultimate goal is to help clients establish a strong and professional online presence that supports their ambitions and grows alongside their business.",
+
+
+
+
+
+  "skills.title": "Skills & Tools",
+
+
+
+
+
+
+
+  "projects.title": "Featured Projects",
+  "projects.view": "View Project →",
+  "projects.github": "GitHub",
+
+  "projects.project1.title": "Personal Portfolio",
+  "projects.project1.desc": "A modern developer portfolio to showcase my skills, contact, and services.",
+
+  "projects.project2.title": "Startup Landing Page",
+  "projects.project2.desc": "Landing page with smooth animations and responsive UI for tech startups.",
+
+  "projects.project3.title": "E-commerce Store",
+  "projects.project3.desc": "Full e-commerce UI template with filters, cart, and responsive layout.",
+
+  "projects.project4.title": "Blog System",
+  "projects.project4.desc": "Simple blog with categories, post cards, and custom WordPress setup.",
+
+  "projects.project5.title": "Task Manager App",
+  "projects.project5.desc": "Front-end task management app with priority, status, and filtering.",
+
+  "projects.project6.title": "Netflix Clone",
+  "projects.project6.desc": "Responsive clone of Netflix homepage with carousel and category sections.",
+
+
+
+
+
+
+
+  "testimonials.title": "What My Clients Say",
+  "testimonials.text1": "It was great working with Amarire. He understood exactly what I needed and delivered everything on time. The result was clean and professional.",
+  "testimonials.text2": "I’m really happy with the website Amarire built for my project. It looks great and works smoothly. Communication was easy and clear throughout.",
+  "testimonials.text3": "Very reliable and responsive. Even when I needed small changes, he was quick to handle them. Definitely recommend if you're looking for quality work.",
+  "testimonials.text4": "Simple process, great result. I had no technical knowledge, but Amarire guided me step by step. I now have a site I’m proud to share with clients.",
+
+
+
+
+
+
+
+
+
+
+  "contact.title_part1": "Contact",
+  "contact.title_part2": "Me",
+  "contact.subtitle": "Let's connect and bring your ideas to life. Whether you have a question or a project, I'm here to help!",
+  "contact.errors.name_required": "Please enter your name.",
+  "contact.errors.email_invalid": "Please enter a valid email address.",
+  "contact.errors.subject_required": "Please enter the subject.",
+  "contact.errors.message_required": "Please enter your message.",
+  "contact.form.verify_and_send": "Verify and Send",
+  "contact.errors.complete_captcha": "Please complete the CAPTCHA before submitting.",
+  "contact.form.submit": "Send Message",
+  "contact.EmailTitle": "Email",
+  "contact.EmailDescription": "Send me a message anytime via email",
+  "contact.WhatsappTitle": "WhatsApp",
+  "contact.WhatsappDescription": "Feel free to contact me anytime via WhatsApp",
+  "contact.phone": "+212 77 242 0252",
+  "contact.TelegramTitle": "Telegram",
+  "contact.TelegramDescription": "Feel free to message me anytime on Telegram",
+
+  "contact.placeholders.name": "Your Name",
+  "contact.placeholders.email": "Your Email",
+  "contact.placeholders.subject": "Subject",
+  "contact.placeholders.message": "Your Message",
+
+
+
+
+
+
+
+
+
+
+
+
+  "footer.copyright": "© 2025 Amarire Dev - All rights are reserved."
+}

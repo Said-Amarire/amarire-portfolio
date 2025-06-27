@@ -1,0 +1,128 @@
+{
+
+    
+  "welcome.message": "Bienvenue à Amarire Dev",
+
+
+
+
+  "nav.home": "Accueil",
+  "nav.projects": "Projets",
+  "nav.about": "À propos",
+  "nav.contact": "Contact",
+  "lang.en": "Anglais",
+  "lang.ar": "Arabe",
+  "lang.fr": "Français",
+  "darkModeLabel": "Basculer le mode sombre",
+  "main.welcomeTitle": "Bienvenue chez Amarire Dev",
+  "main.welcomeText": "Nous créons des sites modernes et réactifs adaptés à vos besoins.",
+  "main.servicesTitle": "Nos services",
+  "main.services.webDevelopment": "Développement web",
+  "main.services.wordpress": "Sites WordPress",
+  "main.services.ecommerce": "Boutiques e-commerce",
+  "main.services.optimization": "Optimisation SEO & performance",
+  "main.aboutTitle": "À propos de nous",
+  "main.aboutText": "Amarire Dev est un studio de développement web dédié à créer des sites rapides, beaux et fonctionnels.",
+  "main.contactTitle": "Contact",
+  "main.contactText": "Besoin d’un site web ?",
+  "main.contactLink": "Contactez-nous",
+
+
+
+
+
+
+  "hero_greeting": "Bonjour, je suis",
+  "hero_profession": "Développeur Web",
+  "hero_description": "Je suis un développeur web front-end passionné, spécialisé dans la création de sites web réactifs et conviviaux avec des technologies modernes comme HTML, CSS et JavaScript. Je m'efforce de fournir des expériences numériques fluides qui répondent aux besoins des clients et dépassent leurs attentes.",
+  "hero_button": "Contactez-moi",
+
+
+
+
+
+  "about_title": "À propos de moi",
+  "about_paragraph_1": "Je développe des sites web en mettant un fort accent sur la création de designs à la fois esthétiques et très fonctionnels. Mon approche consiste à comprendre les objectifs et les besoins uniques de chaque client afin de fournir des solutions numériques qui reflètent véritablement leur vision. Au cours de mon expérience, j'ai travaillé sur une large gamme de projets incluant des boutiques en ligne, des blogs, des sites d'affaires et des portfolios personnels. Chaque projet est traité avec le même soin pour garantir que le produit final soit non seulement attrayant, mais offre également une navigation fluide et une expérience utilisateur satisfaisante sur tous les appareils et navigateurs.",
+  "about_paragraph_2": "Pour construire les sites, j'utilise une variété d'outils et de technologies tels que HTML, CSS, JavaScript, PHP, ainsi que des plateformes populaires comme WordPress, WooCommerce et Shopify. Ces outils me permettent de gérer à la fois les interfaces frontend avec lesquelles les utilisateurs interagissent et les systèmes backend qui assurent le bon fonctionnement du site. Le code que j'écris est structuré, propre et maintenable, ce qui facilite la mise à jour et l'expansion des sites au fil du temps pour répondre aux besoins changeants. En me concentrant sur la performance, la sécurité et la compatibilité, je vise à fournir des sites fiables et efficaces qui offrent aux visiteurs une expérience fluide et ininterrompue.",
+  "about_paragraph_3": "Maintenir une communication ouverte et claire avec les clients est une partie clé de mon processus de travail. Je veille à collaborer étroitement à chaque étape d'un projet, depuis la planification initiale jusqu'à la livraison finale, et même après la mise en ligne du site. Ce support continu permet des améliorations, mises à jour et ajustements constants qui aident à garder le site pertinent et efficace. De plus, je consacre du temps à apprendre les nouvelles tendances et technologies en développement web, ce qui me permet d'intégrer les dernières avancées et meilleures pratiques dans mon travail. L'objectif ultime est d'aider les clients à établir une présence en ligne forte et professionnelle qui soutient leurs ambitions et grandit avec leur entreprise.",
+
+
+
+
+  "skills.title": "Compétences & Outils",
+
+
+
+
+
+
+
+
+  "projects.title": "Projets en vedette",
+  "projects.view": "Voir le projet →",
+  "projects.github": "GitHub",
+
+  "projects.project1.title": "Portfolio personnel",
+  "projects.project1.desc": "Un portfolio moderne pour présenter mes compétences, mes contacts et mes services.",
+
+  "projects.project2.title": "Page d’accueil de startup",
+  "projects.project2.desc": "Page d’atterrissage avec animations fluides et UI responsive pour startups tech.",
+
+  "projects.project3.title": "Boutique en ligne",
+  "projects.project3.desc": "Modèle complet d’interface e-commerce avec filtres, panier, et mise en page responsive.",
+
+  "projects.project4.title": "Système de blog",
+  "projects.project4.desc": "Blog simple avec catégories, cartes d’articles, et configuration WordPress personnalisée.",
+
+  "projects.project5.title": "Application de gestion de tâches",
+  "projects.project5.desc": "Application de gestion de tâches front-end avec priorités, statuts, et filtres.",
+
+  "projects.project6.title": "Clone de Netflix",
+  "projects.project6.desc": "Clone responsive de la page d’accueil Netflix avec carrousel et sections de catégories.",
+
+
+
+
+
+
+  "testimonials.title": "Ce que disent mes clients",
+  "testimonials.text1": "C'était un plaisir de travailler avec Amarire. Il a bien compris mes besoins et a tout livré à temps. Le résultat est propre et professionnel.",
+  "testimonials.text2": "Je suis très satisfait du site web créé par Amarire. Il est esthétique et fonctionne parfaitement. La communication a été simple et fluide.",
+  "testimonials.text3": "Très fiable et réactif. Même pour des petits changements, il a répondu rapidement. Je le recommande vivement pour un travail de qualité.",
+  "testimonials.text4": "Processus simple, excellent résultat. Je n'avais aucune compétence technique, mais Amarire m'a guidé pas à pas. Je suis fier de partager mon site maintenant.",
+
+
+
+
+
+
+  "contact.title_part1": "Contacte",
+  "contact.title_part2": "moi",
+  "contact.subtitle": "Laisse-moi connecter avec toi et donner vie à tes idées. Que tu aies une question ou un projet, je suis là pour t'aider !",
+  "contact.errors.name_required": "Merci d'entrer ton nom.",
+  "contact.errors.email_invalid": "Merci d'entrer une adresse e-mail valide.",
+  "contact.errors.subject_required": "Merci d'entrer le sujet.",
+  "contact.errors.message_required": "Merci d'entrer ton message.",
+  "contact.form.verify_and_send": "Vérifier et envoyer",
+  "contact.errors.complete_captcha": "Merci de compléter le CAPTCHA avant d'envoyer.",
+  "contact.form.submit": "Envoie ton message",
+  "contact.EmailTitle": "E-mail",
+  "contact.EmailDescription": "Tu peux m'envoyer un message à tout moment par e-mail",
+  "contact.WhatsappTitle": "WhatsApp",
+  "contact.WhatsappDescription": "N'hésite pas à me contacter via WhatsApp à tout moment",
+  "contact.phone": "+212 77 242 0252",
+  "contact.TelegramTitle": "Telegram",
+  "contact.TelegramDescription": "N'hésite pas à m'envoyer un message sur Telegram à tout moment",
+
+
+  "contact.placeholders.name": "Votre nom",
+  "contact.placeholders.email": "Votre e-mail",
+  "contact.placeholders.subject": "Sujet",
+  "contact.placeholders.message": "Votre message",
+
+
+
+
+
+  "footer.copyright": "© 2025 Amarire Dev - Tous droits réservés."
+}

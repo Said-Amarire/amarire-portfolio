@@ -1,0 +1,45 @@
+# === robots.txt for amarire.dev ===
+# Allow all user agents except disallowed paths and bots
+
+User-agent: *
+Disallow: /admin/
+Disallow: /db/
+Disallow: /includes/
+Disallow: /private/
+Disallow: /generator/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /backup/
+Disallow: /node_modules/
+Disallow: /vendor/
+Disallow: /assets/dev/
+
+# Block sensitive file types
+Disallow: /*.php
+Disallow: /*.json
+Disallow: /*.env
+
+# Block error pages
+Disallow: /404/
+Disallow: /error/
+
+# Allow everything else
+Allow: /
+
+# Sitemap location
+Sitemap: https://amarire.dev/sitemap.xml
+
+# Crawl delay for some bots (Google ignores this)
+Crawl-delay: 10
+
+# Block unwanted bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# === End of robots.txt ===
