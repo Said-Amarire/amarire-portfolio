@@ -738,11 +738,6 @@ body.dark-mode #darkModeToggle .toggle-thumb {
 }
 
 
-/*================================================================================ page Home  ===============================================================================*/
-
-
-
-
 :root {
   --bg-color: #ffffff;
 }
@@ -759,10 +754,6 @@ body {
   padding: 0;
 }
 
-
-/* ==============================
-   Hero Section
-   ============================== */
 
 .hero-section {
   display: flex;
@@ -1036,11 +1027,6 @@ body.dark-mode .image-overlay {
 }
 
 
-
-/* ==============================
-   About Me Section
-   ============================== */
-
 /* About Section */
 .about-section {
   width: 90%;
@@ -1181,10 +1167,6 @@ body.dark-mode {
 }
 
 
-
-/* ==============================
-   Tools & Skills Section
-   ============================== */
 
 .skills-section {
   padding-inline: clamp(1rem, 5vw, 3rem);
@@ -1336,8 +1318,6 @@ body.dark-mode {
   }
 }
 
-
-/*=============================================================================== Projects ===================================================================================*/
 
 :root {
   --text-color: #222222;
@@ -1572,11 +1552,6 @@ body.dark-mode {
 }
 
 
-
-/*========================================================================= Testimonials Section Styles ============================================================================*/
-
-
-
 :root {
   --text-color: #222222;
   --card-bg: #ffffff;
@@ -1806,8 +1781,6 @@ body.dark-mode {
   filter: blur(0);
 }
 
-
-/*=================================================================================== Contact ==========================================================================================*/
 
 /* Custom Properties (Variables) - Optimized for comfort, depth, and vibrancy */
 :root {
@@ -2230,8 +2203,6 @@ a.card-link:hover {
     overflow-y: auto;
 }
 
-/*==================================================== Media Query for Mobile Devices ================================================*/
-
 @media (max-width: 768px) {
     .contact-content {
         flex-direction: column;
@@ -2281,18 +2252,6 @@ a.card-link:hover {
 }
 
 
-
-
-
-
-
-
-/*==================================================================== Footer =======================================================================*/
-
-
-
-
-/* --- Theme Variables --- */
 body:not(.dark-mode) {
   --footer-bg: #fff;
   --footer-text: #111;
@@ -2309,7 +2268,6 @@ body.dark-mode {
 
 
 
-/* --- Footer Base --- */
 footer {
   background-color: var(--footer-bg);
   color: var(--footer-text);
