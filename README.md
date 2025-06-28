@@ -1,3 +1,5 @@
+![1](https://github.com/user-attachments/assets/e94f3fd0-ca20-4035-8eac-3880b2137725)
+
 ## 🚀 Project Overview
 
 This portfolio is built to serve as a professional online presence where potential clients and employers can explore my work, read testimonials from past collaborators, and get in touch with me easily.
