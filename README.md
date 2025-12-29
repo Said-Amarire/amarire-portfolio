@@ -15,7 +15,7 @@ The website is carefully crafted with a combination of modern web technologies, 
 - **JavaScript**: Interactive UI elements including testimonials slider, navigation toggles, and multi-language support.
 - **PHP**: Modular templating (header, footer) and basic backend form handling integration.
 - **Google reCAPTCHA**: To secure the contact form from spam and abuse.
-- **Multilingual Support**: Dynamic translation using JSON language files supporting English, Arabic, French, and Tamazight (تشلحيت).
+- **Multilingual Support**: Dynamic translation using JSON language files supporting English, Arabic, French, and Tamazight (ⵜⴰⵛⵍⵃⵉⵜ).
 
 ---
 
