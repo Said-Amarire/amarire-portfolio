@@ -20,7 +20,7 @@ The website is carefully crafted with a combination of modern web technologies, 
 ---
 
 ## 🗂️ Project Structure
-
+,,,
 The project files are organized for clarity and scalability:
 ├── assets/ # Images, icons, and media assets
 ├── css/ # Stylesheets (main style.css and section-specific styles)
@@ -34,7 +34,7 @@ The project files are organized for clarity and scalability:
 ├── robots.txt # SEO and crawler instructions to protect sensitive paths
 ├── sitemap.xml # XML sitemap for SEO indexing
 └── ... # Other configuration and utility files
-
+,,,
 
 ---
 
